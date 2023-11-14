@@ -11,6 +11,39 @@
 		04B44DAC2B03DA9500E74F48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DAB2B03DA9500E74F48 /* ContentView.swift */; };
 		04B44DAE2B03DA9600E74F48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DAD2B03DA9600E74F48 /* Assets.xcassets */; };
 		04B44DB12B03DA9600E74F48 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DB02B03DA9600E74F48 /* Preview Assets.xcassets */; };
+		04B44DD92B03DAFA00E74F48 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DB82B03DAFA00E74F48 /* Poppins-ExtraLight.ttf */; };
+		04B44DDA2B03DAFA00E74F48 /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DB92B03DAFA00E74F48 /* Poppins-ThinItalic.ttf */; };
+		04B44DDB2B03DAFA00E74F48 /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DBA2B03DAFA00E74F48 /* Poppins-ExtraLightItalic.ttf */; };
+		04B44DDC2B03DAFA00E74F48 /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DBB2B03DAFA00E74F48 /* Poppins-BoldItalic.ttf */; };
+		04B44DDD2B03DAFA00E74F48 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DBC2B03DAFA00E74F48 /* Poppins-Light.ttf */; };
+		04B44DDE2B03DAFA00E74F48 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DBD2B03DAFA00E74F48 /* Poppins-Medium.ttf */; };
+		04B44DDF2B03DAFA00E74F48 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DBE2B03DAFA00E74F48 /* Poppins-SemiBoldItalic.ttf */; };
+		04B44DE02B03DAFA00E74F48 /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DBF2B03DAFA00E74F48 /* Poppins-ExtraBoldItalic.ttf */; };
+		04B44DE12B03DAFA00E74F48 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC02B03DAFA00E74F48 /* Poppins-ExtraBold.ttf */; };
+		04B44DE22B03DAFA00E74F48 /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC12B03DAFA00E74F48 /* Poppins-BlackItalic.ttf */; };
+		04B44DE32B03DAFA00E74F48 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC22B03DAFA00E74F48 /* Poppins-Regular.ttf */; };
+		04B44DE42B03DAFA00E74F48 /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC32B03DAFA00E74F48 /* Poppins-LightItalic.ttf */; };
+		04B44DE52B03DAFA00E74F48 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC42B03DAFA00E74F48 /* Poppins-Bold.ttf */; };
+		04B44DE62B03DAFA00E74F48 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC52B03DAFA00E74F48 /* Poppins-Black.ttf */; };
+		04B44DE72B03DAFA00E74F48 /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC62B03DAFA00E74F48 /* Poppins-Thin.ttf */; };
+		04B44DE82B03DAFA00E74F48 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC72B03DAFA00E74F48 /* Poppins-SemiBold.ttf */; };
+		04B44DE92B03DAFA00E74F48 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC82B03DAFA00E74F48 /* Poppins-Italic.ttf */; };
+		04B44DEA2B03DAFA00E74F48 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DC92B03DAFA00E74F48 /* Poppins-MediumItalic.ttf */; };
+		04B44DEB2B03DAFA00E74F48 /* TextExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DCB2B03DAFA00E74F48 /* TextExtensions.swift */; };
+		04B44DEC2B03DAFA00E74F48 /* VConst.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DCC2B03DAFA00E74F48 /* VConst.swift */; };
+		04B44DED2B03DAFA00E74F48 /* Time+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DCD2B03DAFA00E74F48 /* Time+.swift */; };
+		04B44DEE2B03DAFA00E74F48 /* FontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DCE2B03DAFA00E74F48 /* FontExtension.swift */; };
+		04B44DEF2B03DAFA00E74F48 /* UserDefault+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DCF2B03DAFA00E74F48 /* UserDefault+Extension.swift */; };
+		04B44DF02B03DAFA00E74F48 /* String+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD02B03DAFA00E74F48 /* String+.swift */; };
+		04B44DF12B03DAFA00E74F48 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD12B03DAFA00E74F48 /* ImagePicker.swift */; };
+		04B44DF22B03DAFA00E74F48 /* ColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD22B03DAFA00E74F48 /* ColorExtensions.swift */; };
+		04B44DF32B03DAFA00E74F48 /* ScrollableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD32B03DAFA00E74F48 /* ScrollableView.swift */; };
+		04B44DF42B03DAFA00E74F48 /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD42B03DAFA00E74F48 /* LottieView.swift */; };
+		04B44DF52B03DAFA00E74F48 /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD52B03DAFA00E74F48 /* Line.swift */; };
+		04B44DF62B03DAFA00E74F48 /* DizygoticShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD62B03DAFA00E74F48 /* DizygoticShape.swift */; };
+		04B44DF72B03DAFA00E74F48 /* TopPreference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD72B03DAFA00E74F48 /* TopPreference.swift */; };
+		04B44DF82B03DAFA00E74F48 /* Notification+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DD82B03DAFA00E74F48 /* Notification+.swift */; };
+		55335179F03A4FC307CBBDDC /* Pods_onanoff_ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5174B60DDCD8A222C9DB7687 /* Pods_onanoff_ios.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +52,42 @@
 		04B44DAB2B03DA9500E74F48 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04B44DAD2B03DA9600E74F48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B44DB02B03DA9600E74F48 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04B44DB82B03DAFA00E74F48 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
+		04B44DB92B03DAFA00E74F48 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
+		04B44DBA2B03DAFA00E74F48 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		04B44DBB2B03DAFA00E74F48 /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
+		04B44DBC2B03DAFA00E74F48 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		04B44DBD2B03DAFA00E74F48 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		04B44DBE2B03DAFA00E74F48 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		04B44DBF2B03DAFA00E74F48 /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		04B44DC02B03DAFA00E74F48 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		04B44DC12B03DAFA00E74F48 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
+		04B44DC22B03DAFA00E74F48 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		04B44DC32B03DAFA00E74F48 /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
+		04B44DC42B03DAFA00E74F48 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		04B44DC52B03DAFA00E74F48 /* Poppins-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Black.ttf"; sourceTree = "<group>"; };
+		04B44DC62B03DAFA00E74F48 /* Poppins-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		04B44DC72B03DAFA00E74F48 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		04B44DC82B03DAFA00E74F48 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		04B44DC92B03DAFA00E74F48 /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
+		04B44DCB2B03DAFA00E74F48 /* TextExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextExtensions.swift; sourceTree = "<group>"; };
+		04B44DCC2B03DAFA00E74F48 /* VConst.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VConst.swift; sourceTree = "<group>"; };
+		04B44DCD2B03DAFA00E74F48 /* Time+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Time+.swift"; sourceTree = "<group>"; };
+		04B44DCE2B03DAFA00E74F48 /* FontExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontExtension.swift; sourceTree = "<group>"; };
+		04B44DCF2B03DAFA00E74F48 /* UserDefault+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UserDefault+Extension.swift"; sourceTree = "<group>"; };
+		04B44DD02B03DAFA00E74F48 /* String+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+.swift"; sourceTree = "<group>"; };
+		04B44DD12B03DAFA00E74F48 /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		04B44DD22B03DAFA00E74F48 /* ColorExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorExtensions.swift; sourceTree = "<group>"; };
+		04B44DD32B03DAFA00E74F48 /* ScrollableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollableView.swift; sourceTree = "<group>"; };
+		04B44DD42B03DAFA00E74F48 /* LottieView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
+		04B44DD52B03DAFA00E74F48 /* Line.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
+		04B44DD62B03DAFA00E74F48 /* DizygoticShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DizygoticShape.swift; sourceTree = "<group>"; };
+		04B44DD72B03DAFA00E74F48 /* TopPreference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopPreference.swift; sourceTree = "<group>"; };
+		04B44DD82B03DAFA00E74F48 /* Notification+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Notification+.swift"; sourceTree = "<group>"; };
+		04B44DFB2B03DBE800E74F48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		5174B60DDCD8A222C9DB7687 /* Pods_onanoff_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_onanoff_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A043667497F412776F82EBBC /* Pods-onanoff-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onanoff-ios.debug.xcconfig"; path = "Target Support Files/Pods-onanoff-ios/Pods-onanoff-ios.debug.xcconfig"; sourceTree = "<group>"; };
+		C0F3D01581FE99B8A28CFD8E /* Pods-onanoff-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onanoff-ios.release.xcconfig"; path = "Target Support Files/Pods-onanoff-ios/Pods-onanoff-ios.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +95,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55335179F03A4FC307CBBDDC /* Pods_onanoff_ios.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -37,6 +107,8 @@
 			children = (
 				04B44DA82B03DA9500E74F48 /* onanoff-ios */,
 				04B44DA72B03DA9500E74F48 /* Products */,
+				99F1E352B976DCDC96FFC836 /* Pods */,
+				CB92A43F943904376965136C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,6 +123,11 @@
 		04B44DA82B03DA9500E74F48 /* onanoff-ios */ = {
 			isa = PBXGroup;
 			children = (
+				04B44DFB2B03DBE800E74F48 /* Info.plist */,
+				04B44DFA2B03DB2100E74F48 /* Utils */,
+				04B44DF92B03DB0100E74F48 /* Service */,
+				04B44DCA2B03DAFA00E74F48 /* Extensions */,
+				04B44DB72B03DAFA00E74F48 /* fonts */,
 				04B44DA92B03DA9500E74F48 /* onanoff_iosApp.swift */,
 				04B44DAB2B03DA9500E74F48 /* ContentView.swift */,
 				04B44DAD2B03DA9600E74F48 /* Assets.xcassets */,
@@ -67,6 +144,84 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		04B44DB72B03DAFA00E74F48 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				04B44DB82B03DAFA00E74F48 /* Poppins-ExtraLight.ttf */,
+				04B44DB92B03DAFA00E74F48 /* Poppins-ThinItalic.ttf */,
+				04B44DBA2B03DAFA00E74F48 /* Poppins-ExtraLightItalic.ttf */,
+				04B44DBB2B03DAFA00E74F48 /* Poppins-BoldItalic.ttf */,
+				04B44DBC2B03DAFA00E74F48 /* Poppins-Light.ttf */,
+				04B44DBD2B03DAFA00E74F48 /* Poppins-Medium.ttf */,
+				04B44DBE2B03DAFA00E74F48 /* Poppins-SemiBoldItalic.ttf */,
+				04B44DBF2B03DAFA00E74F48 /* Poppins-ExtraBoldItalic.ttf */,
+				04B44DC02B03DAFA00E74F48 /* Poppins-ExtraBold.ttf */,
+				04B44DC12B03DAFA00E74F48 /* Poppins-BlackItalic.ttf */,
+				04B44DC22B03DAFA00E74F48 /* Poppins-Regular.ttf */,
+				04B44DC32B03DAFA00E74F48 /* Poppins-LightItalic.ttf */,
+				04B44DC42B03DAFA00E74F48 /* Poppins-Bold.ttf */,
+				04B44DC52B03DAFA00E74F48 /* Poppins-Black.ttf */,
+				04B44DC62B03DAFA00E74F48 /* Poppins-Thin.ttf */,
+				04B44DC72B03DAFA00E74F48 /* Poppins-SemiBold.ttf */,
+				04B44DC82B03DAFA00E74F48 /* Poppins-Italic.ttf */,
+				04B44DC92B03DAFA00E74F48 /* Poppins-MediumItalic.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		04B44DCA2B03DAFA00E74F48 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				04B44DCB2B03DAFA00E74F48 /* TextExtensions.swift */,
+				04B44DCC2B03DAFA00E74F48 /* VConst.swift */,
+				04B44DCD2B03DAFA00E74F48 /* Time+.swift */,
+				04B44DCE2B03DAFA00E74F48 /* FontExtension.swift */,
+				04B44DCF2B03DAFA00E74F48 /* UserDefault+Extension.swift */,
+				04B44DD02B03DAFA00E74F48 /* String+.swift */,
+				04B44DD12B03DAFA00E74F48 /* ImagePicker.swift */,
+				04B44DD22B03DAFA00E74F48 /* ColorExtensions.swift */,
+				04B44DD32B03DAFA00E74F48 /* ScrollableView.swift */,
+				04B44DD42B03DAFA00E74F48 /* LottieView.swift */,
+				04B44DD52B03DAFA00E74F48 /* Line.swift */,
+				04B44DD62B03DAFA00E74F48 /* DizygoticShape.swift */,
+				04B44DD72B03DAFA00E74F48 /* TopPreference.swift */,
+				04B44DD82B03DAFA00E74F48 /* Notification+.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		04B44DF92B03DB0100E74F48 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		04B44DFA2B03DB2100E74F48 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		99F1E352B976DCDC96FFC836 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A043667497F412776F82EBBC /* Pods-onanoff-ios.debug.xcconfig */,
+				C0F3D01581FE99B8A28CFD8E /* Pods-onanoff-ios.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		CB92A43F943904376965136C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5174B60DDCD8A222C9DB7687 /* Pods_onanoff_ios.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -74,9 +229,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04B44DB42B03DA9600E74F48 /* Build configuration list for PBXNativeTarget "onanoff-ios" */;
 			buildPhases = (
+				57721FF69327331223036C4C /* [CP] Check Pods Manifest.lock */,
 				04B44DA22B03DA9400E74F48 /* Sources */,
 				04B44DA32B03DA9400E74F48 /* Frameworks */,
 				04B44DA42B03DA9400E74F48 /* Resources */,
+				FB576EC5DEA65C23BB09D8F7 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -125,6 +282,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B44DE62B03DAFA00E74F48 /* Poppins-Black.ttf in Resources */,
+				04B44DDD2B03DAFA00E74F48 /* Poppins-Light.ttf in Resources */,
+				04B44DD92B03DAFA00E74F48 /* Poppins-ExtraLight.ttf in Resources */,
+				04B44DE72B03DAFA00E74F48 /* Poppins-Thin.ttf in Resources */,
+				04B44DE92B03DAFA00E74F48 /* Poppins-Italic.ttf in Resources */,
+				04B44DE32B03DAFA00E74F48 /* Poppins-Regular.ttf in Resources */,
+				04B44DDA2B03DAFA00E74F48 /* Poppins-ThinItalic.ttf in Resources */,
+				04B44DDB2B03DAFA00E74F48 /* Poppins-ExtraLightItalic.ttf in Resources */,
+				04B44DE22B03DAFA00E74F48 /* Poppins-BlackItalic.ttf in Resources */,
+				04B44DEA2B03DAFA00E74F48 /* Poppins-MediumItalic.ttf in Resources */,
+				04B44DE02B03DAFA00E74F48 /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				04B44DE52B03DAFA00E74F48 /* Poppins-Bold.ttf in Resources */,
+				04B44DDC2B03DAFA00E74F48 /* Poppins-BoldItalic.ttf in Resources */,
+				04B44DDF2B03DAFA00E74F48 /* Poppins-SemiBoldItalic.ttf in Resources */,
+				04B44DE42B03DAFA00E74F48 /* Poppins-LightItalic.ttf in Resources */,
+				04B44DE12B03DAFA00E74F48 /* Poppins-ExtraBold.ttf in Resources */,
+				04B44DDE2B03DAFA00E74F48 /* Poppins-Medium.ttf in Resources */,
+				04B44DE82B03DAFA00E74F48 /* Poppins-SemiBold.ttf in Resources */,
 				04B44DB12B03DA9600E74F48 /* Preview Assets.xcassets in Resources */,
 				04B44DAE2B03DA9600E74F48 /* Assets.xcassets in Resources */,
 			);
@@ -132,13 +307,69 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		57721FF69327331223036C4C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-onanoff-ios-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FB576EC5DEA65C23BB09D8F7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-onanoff-ios/Pods-onanoff-ios-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-onanoff-ios/Pods-onanoff-ios-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-onanoff-ios/Pods-onanoff-ios-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		04B44DA22B03DA9400E74F48 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B44DF82B03DAFA00E74F48 /* Notification+.swift in Sources */,
+				04B44DEE2B03DAFA00E74F48 /* FontExtension.swift in Sources */,
+				04B44DF22B03DAFA00E74F48 /* ColorExtensions.swift in Sources */,
+				04B44DEC2B03DAFA00E74F48 /* VConst.swift in Sources */,
+				04B44DF02B03DAFA00E74F48 /* String+.swift in Sources */,
+				04B44DF12B03DAFA00E74F48 /* ImagePicker.swift in Sources */,
 				04B44DAC2B03DA9500E74F48 /* ContentView.swift in Sources */,
+				04B44DF62B03DAFA00E74F48 /* DizygoticShape.swift in Sources */,
+				04B44DEB2B03DAFA00E74F48 /* TextExtensions.swift in Sources */,
+				04B44DF52B03DAFA00E74F48 /* Line.swift in Sources */,
+				04B44DEF2B03DAFA00E74F48 /* UserDefault+Extension.swift in Sources */,
 				04B44DAA2B03DA9500E74F48 /* onanoff_iosApp.swift in Sources */,
+				04B44DED2B03DAFA00E74F48 /* Time+.swift in Sources */,
+				04B44DF72B03DAFA00E74F48 /* TopPreference.swift in Sources */,
+				04B44DF32B03DAFA00E74F48 /* ScrollableView.swift in Sources */,
+				04B44DF42B03DAFA00E74F48 /* LottieView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +497,7 @@
 		};
 		04B44DB52B03DA9600E74F48 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A043667497F412776F82EBBC /* Pods-onanoff-ios.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -274,18 +506,23 @@
 				DEVELOPMENT_ASSET_PATHS = "\"onanoff-ios/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "onanoff-ios/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.onanoff.audio.onanoff-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = com.onanoff.audio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -294,6 +531,7 @@
 		};
 		04B44DB62B03DA9600E74F48 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C0F3D01581FE99B8A28CFD8E /* Pods-onanoff-ios.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -302,18 +540,23 @@
 				DEVELOPMENT_ASSET_PATHS = "\"onanoff-ios/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "onanoff-ios/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.onanoff.audio.onanoff-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = com.onanoff.audio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
