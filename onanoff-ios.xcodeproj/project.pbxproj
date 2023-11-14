@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04B07BB42B03DEEA00DD194D /* loading.json in Resources */ = {isa = PBXBuildFile; fileRef = 04B07BB32B03DEEA00DD194D /* loading.json */; };
 		04B44DAA2B03DA9500E74F48 /* onanoff_iosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DA92B03DA9500E74F48 /* onanoff_iosApp.swift */; };
 		04B44DAC2B03DA9500E74F48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B44DAB2B03DA9500E74F48 /* ContentView.swift */; };
 		04B44DAE2B03DA9600E74F48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B44DAD2B03DA9600E74F48 /* Assets.xcassets */; };
@@ -47,6 +48,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04B07BB32B03DEEA00DD194D /* loading.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loading.json; sourceTree = "<group>"; };
 		04B44DA62B03DA9500E74F48 /* onanoff-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "onanoff-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B44DA92B03DA9500E74F48 /* onanoff_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onanoff_iosApp.swift; sourceTree = "<group>"; };
 		04B44DAB2B03DA9500E74F48 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -84,7 +86,7 @@
 		04B44DD62B03DAFA00E74F48 /* DizygoticShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DizygoticShape.swift; sourceTree = "<group>"; };
 		04B44DD72B03DAFA00E74F48 /* TopPreference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopPreference.swift; sourceTree = "<group>"; };
 		04B44DD82B03DAFA00E74F48 /* Notification+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Notification+.swift"; sourceTree = "<group>"; };
-		04B44DFB2B03DBE800E74F48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		04B44DFB2B03DBE800E74F48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5174B60DDCD8A222C9DB7687 /* Pods_onanoff_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_onanoff_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A043667497F412776F82EBBC /* Pods-onanoff-ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onanoff-ios.debug.xcconfig"; path = "Target Support Files/Pods-onanoff-ios/Pods-onanoff-ios.debug.xcconfig"; sourceTree = "<group>"; };
 		C0F3D01581FE99B8A28CFD8E /* Pods-onanoff-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onanoff-ios.release.xcconfig"; path = "Target Support Files/Pods-onanoff-ios/Pods-onanoff-ios.release.xcconfig"; sourceTree = "<group>"; };
@@ -102,6 +104,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04B07BB02B03DE7600DD194D /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		04B07BB12B03DE7A00DD194D /* Component */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
+		04B07BB22B03DEC700DD194D /* JsonFile */ = {
+			isa = PBXGroup;
+			children = (
+				04B07BB32B03DEEA00DD194D /* loading.json */,
+			);
+			path = JsonFile;
+			sourceTree = "<group>";
+		};
 		04B44D9D2B03DA9400E74F48 = {
 			isa = PBXGroup;
 			children = (
@@ -123,15 +147,18 @@
 		04B44DA82B03DA9500E74F48 /* onanoff-ios */ = {
 			isa = PBXGroup;
 			children = (
+				04B07BB22B03DEC700DD194D /* JsonFile */,
 				04B44DFB2B03DBE800E74F48 /* Info.plist */,
-				04B44DFA2B03DB2100E74F48 /* Utils */,
-				04B44DF92B03DB0100E74F48 /* Service */,
+				04B44DAB2B03DA9500E74F48 /* ContentView.swift */,
+				04B44DA92B03DA9500E74F48 /* onanoff_iosApp.swift */,
+				04B44DAD2B03DA9600E74F48 /* Assets.xcassets */,
+				04B07BB12B03DE7A00DD194D /* Component */,
 				04B44DCA2B03DAFA00E74F48 /* Extensions */,
 				04B44DB72B03DAFA00E74F48 /* fonts */,
-				04B44DA92B03DA9500E74F48 /* onanoff_iosApp.swift */,
-				04B44DAB2B03DA9500E74F48 /* ContentView.swift */,
-				04B44DAD2B03DA9600E74F48 /* Assets.xcassets */,
 				04B44DAF2B03DA9600E74F48 /* Preview Content */,
+				04B44DF92B03DB0100E74F48 /* Service */,
+				04B44DFA2B03DB2100E74F48 /* Utils */,
+				04B07BB02B03DE7600DD194D /* View */,
 			);
 			path = "onanoff-ios";
 			sourceTree = "<group>";
@@ -210,7 +237,6 @@
 				A043667497F412776F82EBBC /* Pods-onanoff-ios.debug.xcconfig */,
 				C0F3D01581FE99B8A28CFD8E /* Pods-onanoff-ios.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -293,6 +319,7 @@
 				04B44DE22B03DAFA00E74F48 /* Poppins-BlackItalic.ttf in Resources */,
 				04B44DEA2B03DAFA00E74F48 /* Poppins-MediumItalic.ttf in Resources */,
 				04B44DE02B03DAFA00E74F48 /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				04B07BB42B03DEEA00DD194D /* loading.json in Resources */,
 				04B44DE52B03DAFA00E74F48 /* Poppins-Bold.ttf in Resources */,
 				04B44DDC2B03DAFA00E74F48 /* Poppins-BoldItalic.ttf in Resources */,
 				04B44DDF2B03DAFA00E74F48 /* Poppins-SemiBoldItalic.ttf in Resources */,
